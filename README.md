@@ -1,7 +1,7 @@
 # inquire_test_task
 Solution to inquire test task
 
-[DEMO LINK](lentyaeev.github.io/inquire_test_task)
+[DEMO LINK](https://lentyaeev.github.io/inquire_test_task)
 
 To add a post click a button "write a post" and add body and title, to edit the title of the post double click the row or click the edit button,
 to save the new title press enter or unfocus the input, or press Escape.
